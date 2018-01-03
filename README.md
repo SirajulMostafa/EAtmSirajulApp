@@ -8,9 +8,7 @@ output:
 
 - Enter Pin Number 123
 
-- Enter 1 for check Balance
-
-- Enter 2 for withdrawal Cash
+- Enter 1 for check Balance,2 for withdrawal Cash
 
 - Enter 3 For help
 
@@ -20,9 +18,7 @@ output:
  1
 -- Your curret Balance is:500
 
-- Enter 1 for check Balance
-
-- Enter 2 for withdrawal Cash
+- Enter 1 for check Balance,2 for withdrawal Cash
 - Enter 3 For help
 
 - Enter 4  For  Another Acount
@@ -33,9 +29,7 @@ output:
  - Enter  Amount For WithDraw 2
 Congratulation ! Cash  withdraw = 2 Taka. Your Current Balance is = : 498
 
-- Enter 1 for check Balance
-
-- Enter 2 for withdrawal Cash
+- Enter 1 for check Balance,2 for withdrawal Cash
 - Enter 3 For help
 
 - Enter 4  For  Another Acount
@@ -46,9 +40,7 @@ Congratulation ! Cash  withdraw = 2 Taka. Your Current Balance is = : 498
  - Enter  Amount For WithDraw 2
 Congratulation ! Cash  withdraw = 2 Taka. Your Current Balance is = : 496
 
-- Enter 1 for check Balance
-
-- Enter 2 for withdrawal Cash
+- Enter 1 for check Balance,2 for withdrawal Cash
 - Enter 3 For help
 - Enter 4  For  Another Acount
 
@@ -58,9 +50,7 @@ Congratulation ! Cash  withdraw = 2 Taka. Your Current Balance is = : 496
 - Enter  Amount For WithDraw 2
 Congratulation ! Cash  withdraw = 2 Taka. Your Current Balance is = : 494
 
-- Enter 1 for check Balance
-
-- Enter 2 for withdrawal Cash
+- Enter 1 for check Balance,2 for withdrawal Cash
 - Enter 3 For help
 
 - Enter 4  For  Another Acount
@@ -71,9 +61,7 @@ Congratulation ! Cash  withdraw = 2 Taka. Your Current Balance is = : 494
  - Enter  Amount For WithDraw 2
 Congratulation ! Cash  withdraw = 2 Taka. Your Current Balance is = : 492
 -
-- Enter 1 for check Balance
-
-- Enter 2 for withdrawal Cash
+- Enter 1 for check Balance,2 for withdrawal Cash
 
 - Enter 3 For help
 
@@ -91,8 +79,7 @@ you can not withdraw more than 3 times in a day
 -------------------------------------------------------------
 -
 - Enter 1 for check Balance
--
-- Enter 2 for withdrawal Cash
+,2 for withdrawal Cash
 
 - Enter 3 For help
 
@@ -102,9 +89,7 @@ you can not withdraw more than 3 times in a day
 1
 Your curret Balance is:492
 -
-- Enter 1 for check Balance
-
-- Enter 2 for withdrawal Cash
+- Enter 1 for check Balance,2 for withdrawal Cash
 
 - Enter 3 For help
 
@@ -120,9 +105,7 @@ Your curret Balance is:492
 
 - Enter Pin Number 234
 
-- Enter 1 for check Balance
-
-- Enter 2 for withdrawal Cash
+- Enter 1 for check Balance,2 for withdrawal Cash
 
 - Enter 3 For help
 
@@ -132,9 +115,7 @@ Your curret Balance is:492
  1
 - Your curret Balance is:400
 
-- Enter 1 for check Balance
-
-- Enter 2 for withdrawal Cash
+- Enter 1 for check Balance,2 for withdrawal Cash
 
 - Enter 3 For help
 
@@ -146,9 +127,7 @@ Your curret Balance is:492
  - Enter  Amount For WithDraw 56
 Congratulation ! Cash  withdraw = 56 Taka. Your Current Balance is = : 344
 
-- Enter 1 for check Balance
-
-- Enter 2 for withdrawal Cash
+- Enter 1 for check Balance,2 for withdrawal Cash
 
 - Enter 3 For help
 
@@ -162,8 +141,7 @@ Congratulation ! Cash  withdraw = 56 Taka. Your Current Balance is = : 344
  - Enter Pin Number 345
  
  - Enter 1 for check Balance
- 
- - Enter 2 for withdrawal Cash
+ ,2 for withdrawal Cash
  
  - Enter 3 For help
  
@@ -174,8 +152,7 @@ Congratulation ! Cash  withdraw = 56 Taka. Your Current Balance is = : 344
 -- Your curret Balance is:500
 
 - Enter 1 for check Balance
--
-- Enter 2 for withdrawal Cash
+,2 for withdrawal Cash
 -
 - Enter 3 For help
 
@@ -187,9 +164,7 @@ Congratulation ! Cash  withdraw = 56 Taka. Your Current Balance is = : 344
  - Enter  Amount For WithDraw 56
 Congratulation ! Cash  withdraw = 56 Taka. Your Current Balance is = : 444
 
-- Enter 1 for check Balance
-
-- Enter 2 for withdrawal Cash
+- Enter 1 for check Balance,2 for withdrawal Cash
 
 - Enter 3 For help
 
@@ -201,9 +176,7 @@ Congratulation ! Cash  withdraw = 56 Taka. Your Current Balance is = : 444
  - Enter  Amount For WithDraw 34
 -Congratulation ! Cash  withdraw = 34 Taka. Your Current Balance is = : 410
 
-- Enter 1 for check Balance
-
-- Enter 2 for withdrawal Cash
+- Enter 1 for check Balance,2 for withdrawal Cash
 
 - Enter 3 For help
 
