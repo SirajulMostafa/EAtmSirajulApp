@@ -1,0 +1,11 @@
+C:\Users\siraj\Source\Repos\EAtmSirajulApp\EAtmSirajulApp\bin\Debug\netcoreapp2.0\EAtmSirajulApp.deps.json
+C:\Users\siraj\Source\Repos\EAtmSirajulApp\EAtmSirajulApp\bin\Debug\netcoreapp2.0\EAtmSirajulApp.runtimeconfig.json
+C:\Users\siraj\Source\Repos\EAtmSirajulApp\EAtmSirajulApp\bin\Debug\netcoreapp2.0\EAtmSirajulApp.runtimeconfig.dev.json
+C:\Users\siraj\Source\Repos\EAtmSirajulApp\EAtmSirajulApp\bin\Debug\netcoreapp2.0\EAtmSirajulApp.dll
+C:\Users\siraj\Source\Repos\EAtmSirajulApp\EAtmSirajulApp\bin\Debug\netcoreapp2.0\EAtmSirajulApp.pdb
+C:\Users\siraj\Source\Repos\EAtmSirajulApp\EAtmSirajulApp\obj\Debug\netcoreapp2.0\EAtmSirajulApp.csprojResolveAssemblyReference.cache
+C:\Users\siraj\Source\Repos\EAtmSirajulApp\EAtmSirajulApp\obj\Debug\netcoreapp2.0\EAtmSirajulApp.csproj.CoreCompileInputs.cache
+C:\Users\siraj\Source\Repos\EAtmSirajulApp\EAtmSirajulApp\obj\Debug\netcoreapp2.0\EAtmSirajulApp.AssemblyInfoInputs.cache
+C:\Users\siraj\Source\Repos\EAtmSirajulApp\EAtmSirajulApp\obj\Debug\netcoreapp2.0\EAtmSirajulApp.AssemblyInfo.cs
+C:\Users\siraj\Source\Repos\EAtmSirajulApp\EAtmSirajulApp\obj\Debug\netcoreapp2.0\EAtmSirajulApp.dll
+C:\Users\siraj\Source\Repos\EAtmSirajulApp\EAtmSirajulApp\obj\Debug\netcoreapp2.0\EAtmSirajulApp.pdb
