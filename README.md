@@ -4,7 +4,7 @@
 
 output:
 
--
+
 Enter Card number 1
 -
 Enter Pin Number 123
@@ -118,19 +118,19 @@ Enter 4  For  Another Acount
 -
 Enter 0 for exit
  4
- -
- Enter Card number 234
-Invalid Card Number!!!
+ 
+-Enter Card number 234
+-Invalid Card Number!!!
+
+-Enter Card number 2
 -
-Enter Card number 2
+-Enter Pin Number 234
 -
-Enter Pin Number 234
+-Enter 1 for check Balance
 -
-Enter 1 for check Balance
+-Enter 2 for withdrawal Cash
 -
-Enter 2 for withdrawal Cash
--
-Enter 3 For help
+-Enter 3 For help
 -
 Enter 4  For  Another Acount
 -
