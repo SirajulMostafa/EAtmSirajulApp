@@ -36,7 +36,7 @@ output:
 
 - Enter 1 for check Balance,2 for withdrawal Cash, 3 For help, 4  For  Another Acount, 0 for exit
  1
--- Your curret Balance is:500
+- Your curret Balance is:500
 
 - Enter 1 for check Balance,2 for withdrawal Cas, 3 For help,4  For  Another Acount, 0 for exit
  2
@@ -112,7 +112,7 @@ Your curret Balance is:492
  ,4  For  Another Acount
  , 0 for exit
  1
--- Your curret Balance is:500
+- Your curret Balance is:500
 
 - Enter 1 for check Balance
 ,2 for withdrawal Cash
